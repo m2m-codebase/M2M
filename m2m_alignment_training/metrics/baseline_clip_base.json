@@ -1,0 +1,11 @@
+{
+    "eval/R@1/i2t/XTD10_captions_en": 55.900001525878906,
+    "eval/R@5/i2t/XTD10_captions_en": 83.39999914169312,
+    "eval/R@10/i2t/XTD10_captions_en": 91.60000085830688,
+    "eval/R@1/t2i/XTD10_captions_en": 54.00000214576721,
+    "eval/R@5/t2i/XTD10_captions_en": 80.19999861717224,
+    "eval/R@10/t2i/XTD10_captions_en": 90.6000018119812,
+    "eval/avg_metric_t2i": 74.93333419164021,
+    "eval/avg_metric_i2t": 76.96666717529297,
+    "eval/avg_metric": 75.95000068346658
+}

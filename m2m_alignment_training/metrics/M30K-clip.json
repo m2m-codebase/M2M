@@ -1,0 +1,50 @@
+{
+    "en": {
+        "text_to_image": {
+            "recall@1": 61.1,
+            "recall@5": 86.5,
+            "recall@10": 92.7
+        },
+        "image_to_text": {
+            "recall@1": 64.6,
+            "recall@5": 90.1,
+            "recall@10": 95.3
+        }
+    },
+    "de": {
+        "text_to_image": {
+            "recall@1": 52.8,
+            "recall@5": 80.4,
+            "recall@10": 88.0
+        },
+        "image_to_text": {
+            "recall@1": 56.5,
+            "recall@5": 84.4,
+            "recall@10": 91.3
+        }
+    },
+    "cs": {
+        "text_to_image": {
+            "recall@1": 51.6,
+            "recall@5": 80.0,
+            "recall@10": 87.8
+        },
+        "image_to_text": {
+            "recall@1": 55.2,
+            "recall@5": 82.3,
+            "recall@10": 89.8
+        }
+    },
+    "fr": {
+        "text_to_image": {
+            "recall@1": 53.7,
+            "recall@5": 82.0,
+            "recall@10": 90.8
+        },
+        "image_to_text": {
+            "recall@1": 58.3,
+            "recall@5": 86.2,
+            "recall@10": 92.3
+        }
+    }
+}

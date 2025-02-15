@@ -1,0 +1,11 @@
+{
+    "eng_Latn": {
+        "text_to_image": {
+            "recall@1": 73.85373050090847,
+            "recall@5": 69.49088412931197,
+            "recall@10": 66.49318650671411
+        },
+        "image_to_text": {},
+        "text_to_text": {}
+    }
+}

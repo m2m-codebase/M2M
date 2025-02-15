@@ -1,0 +1,134 @@
+{
+    "XTD10_captions_it": {
+        "text_to_image": {
+            "recall@1": 63.7,
+            "recall@5": 87.3,
+            "recall@10": 94.1
+        },
+        "image_to_text": {
+            "recall@1": 62.9,
+            "recall@5": 87.8,
+            "recall@10": 94.8
+        }
+    },
+    "XTD10_captions_ru": {
+        "text_to_image": {
+            "recall@1": 58.8,
+            "recall@5": 82.1,
+            "recall@10": 90.7
+        },
+        "image_to_text": {
+            "recall@1": 58.5,
+            "recall@5": 82.9,
+            "recall@10": 90.7
+        }
+    },
+    "XTD10_captions_en": {
+        "text_to_image": {
+            "recall@1": 67.1,
+            "recall@5": 88.7,
+            "recall@10": 95.5
+        },
+        "image_to_text": {
+            "recall@1": 66.8,
+            "recall@5": 90.4,
+            "recall@10": 95.4
+        }
+    },
+    "XTD10_captions_pl": {
+        "text_to_image": {
+            "recall@1": 65.7,
+            "recall@5": 88.3,
+            "recall@10": 94.9
+        },
+        "image_to_text": {
+            "recall@1": 64.7,
+            "recall@5": 88.6,
+            "recall@10": 94.7
+        }
+    },
+    "XTD10_captions_tr": {
+        "text_to_image": {
+            "recall@1": 61.5,
+            "recall@5": 84.8,
+            "recall@10": 93.5
+        },
+        "image_to_text": {
+            "recall@1": 61.1,
+            "recall@5": 86.0,
+            "recall@10": 93.7
+        }
+    },
+    "XTD10_captions_zh": {
+        "text_to_image": {
+            "recall@1": 58.8,
+            "recall@5": 82.6,
+            "recall@10": 91.4
+        },
+        "image_to_text": {
+            "recall@1": 58.3,
+            "recall@5": 83.9,
+            "recall@10": 92.2
+        }
+    },
+    "XTD10_captions_ko": {
+        "text_to_image": {
+            "recall@1": 57.3,
+            "recall@5": 82.9,
+            "recall@10": 90.6
+        },
+        "image_to_text": {
+            "recall@1": 57.6,
+            "recall@5": 82.4,
+            "recall@10": 91.9
+        }
+    },
+    "XTD10_captions_es": {
+        "text_to_image": {
+            "recall@1": 62.6,
+            "recall@5": 87.4,
+            "recall@10": 93.2
+        },
+        "image_to_text": {
+            "recall@1": 64.3,
+            "recall@5": 87.0,
+            "recall@10": 93.8
+        }
+    },
+    "STAIR_caption_jp": {
+        "text_to_image": {
+            "recall@1": 55.1,
+            "recall@5": 82.1,
+            "recall@10": 88.9
+        },
+        "image_to_text": {
+            "recall@1": 55.0,
+            "recall@5": 82.4,
+            "recall@10": 91.4
+        }
+    },
+    "MIC_caption_de": {
+        "text_to_image": {
+            "recall@1": 61.86186186186186,
+            "recall@5": 87.08708708708708,
+            "recall@10": 92.49249249249249
+        },
+        "image_to_text": {
+            "recall@1": 61.0,
+            "recall@5": 86.1,
+            "recall@10": 93.6
+        }
+    },
+    "MIC_caption_fr": {
+        "text_to_image": {
+            "recall@1": 62.3,
+            "recall@5": 87.0,
+            "recall@10": 92.8
+        },
+        "image_to_text": {
+            "recall@1": 63.1,
+            "recall@5": 85.1,
+            "recall@10": 92.7
+        }
+    }
+}
