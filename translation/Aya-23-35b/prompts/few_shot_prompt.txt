@@ -1,0 +1,10 @@
+You are an expert in translations. Your task is to accurately translate the following text into {tgt_lang}.
+
+Here are a few examples to help you understand the format:
+
+{fewshots}
+
+Now, translate the following text:
+
+Input text: {source_text}
+Translation:
