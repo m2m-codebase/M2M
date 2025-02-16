@@ -16,7 +16,7 @@ This repository contains the code and resources for M2M. Below is an overview of
 All models used in this project are subject to the licenses of their respective sources. We strongly recommend users independently verify the licenses to ensure compliance with their intended use cases.  
 
 ### Models  
-- Models from the [sentence-transformers](https://www.sbert.net/) library - Multilingual CLIP (MCLIP-ST), Multilingual MPNET (M-MPNET), and Multilingual MiniLM (M-MiniLM), LaBSE, KakaoBrain-ALIGN, Jina-CLIP-v1, and LAION-CLAP (CLAP-General, CLAP-HTSAT-Fused)  
+- Models from the [sentence-transformers](https://www.sbert.net/) library (Multilingual CLIP (MCLIP-ST), Multilingual MPNET (M-MPNET), and Multilingual MiniLM (M-MiniLM)), LaBSE, KakaoBrain-ALIGN, Jina-CLIP-v1, and LAION-CLAP (CLAP-General, CLAP-HTSAT-Fused)  
   - Licensed under **Apache License 2.0**.  
 - FLUX.1-dev  
   - Generated outputs can be used for personal, scientific, and commercial purposes as specified in the [FLUX.1 [dev] Non-Commercial License](https://huggingface.co/black-forest-labs/FLUX.1-dev/blob/main/LICENSE.md).  
