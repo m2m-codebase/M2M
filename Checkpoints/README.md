@@ -57,10 +57,10 @@ All checkpoints only contain linear layers please load in conjunction with actua
 | Text Encoder | Image Encoder   | Checkpoint Name                        | No. of Sentences |
 |--------------|-----------------|----------------------------------------|------------------|
 | M-MPNET       | Jina-CLIP-v1    | en_1K_mse_klclip_jina_multiMpnet        | 1K               |
-| M-MPNET       | Jina-CLIP-v2    | en_5K_mse_klclip_jina_multiMpnet        | 5K               |
-| M-MPNET       | Jina-CLIP-v3    | en_10K_mse_klclip_jina_multiMpnet       | 10K              |
-| M-MPNET       | Jina-CLIP-v4    | en_50K_mse_klclip_jina_multiMpnet       | 50K              |
-| M-MPNET       | Jina-CLIP-v5    | en_100K_mse_klclip_jina_multiMpnet      | 100K             |
-| M-MPNET       | Jina-CLIP-v6    | en_250K_mse_klclip_jina_multiMpnet      | 250K             |
-| M-MPNET       | Jina-CLIP-v7    | en_2M_mse_klclip_jina_multiMpnet        | 2M               |  
+| M-MPNET       | Jina-CLIP-v1    | en_5K_mse_klclip_jina_multiMpnet        | 5K               |
+| M-MPNET       | Jina-CLIP-v1    | en_10K_mse_klclip_jina_multiMpnet       | 10K              |
+| M-MPNET       | Jina-CLIP-v1    | en_50K_mse_klclip_jina_multiMpnet       | 50K              |
+| M-MPNET       | Jina-CLIP-v1    | en_100K_mse_klclip_jina_multiMpnet      | 100K             |
+| M-MPNET       | Jina-CLIP-v1    | en_250K_mse_klclip_jina_multiMpnet      | 250K             |
+| M-MPNET       | Jina-CLIP-v1    | en_2M_mse_klclip_jina_multiMpnet        | 2M               |  
 
